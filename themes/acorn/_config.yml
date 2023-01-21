@@ -39,11 +39,11 @@ toc: true
 
 # Slogan
 slogan: 
-  primary: 焕然一新
-  secondary: Acorn 是一颗适用于中小企业的 Hexo 主题
-  archives: 汇聚热点话题 打造创新思路
-  pages: 运维更智能 部署更方便 应用更便捷
-  posts: 实践见真知既是最好的解释
+  primary: 联萌
+  secondary: 这里是联萌的官网
+  archives: 
+  pages: 
+  posts: 
 
 # Library
 libs:
