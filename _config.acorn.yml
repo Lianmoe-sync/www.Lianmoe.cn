@@ -2,8 +2,8 @@
 menu:
   首页: /
   画廊: /gallery
-  案例: /stories
-  新闻: /archives
+  更多: /more
+  加入我们: /joinus
   关于: /about
 
 # Content
@@ -40,7 +40,7 @@ toc: true
 # Slogan
 slogan: 
   primary: 联萌
-  secondary: 使用 Acorn 与 Hexo 制作的联萌官网
+  secondary: lianmoe
   archives: 
   pages: 
   posts: 

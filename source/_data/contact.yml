@@ -9,3 +9,8 @@
   en_name: e-mail
   icon: /images/icons/contact_email.svg
   link: mailto:lianmoe@outlook.com
+
+- name: 知乎
+  en_name: zhihu
+  icon: /images/icons/zhihu.svg
+  link: https://www.zhihu.com/people/findream-1-81
