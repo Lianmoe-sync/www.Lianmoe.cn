@@ -7,4 +7,3 @@ tags:
 [yeggs团队官网](https://www.yeggs.org/)
 [Crowdford团队官网](https://www.crowdford.com/)
 
-<iframe src="//player.bilibili.com/player.html?aid=387789991&bvid=BV1sd4y1X7gY&cid=826636469&page=1" framespacing="0" allowfullscreen="true"> </iframe>
