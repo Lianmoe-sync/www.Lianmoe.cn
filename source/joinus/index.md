@@ -52,4 +52,4 @@ date: 2023-01-22 23:51:55
 - 接受萌新
 
 ##### 加入我们
-我们的邮箱：lianmoe@outlook.com，发送邮件给我们即可！
+我们的邮箱：lianmoe@outlook.com，期待您的加入。
