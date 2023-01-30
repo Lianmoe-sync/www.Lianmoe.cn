@@ -6,16 +6,16 @@
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
 #
-- name: 橡子
-  en_name: Acorn
-  description: Acorn 是一“颗”免费且开源的 Hexo 主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。
+- name: 联萌教程项目工作日志
+  en_name: lianmoe tutoriol log
+  description: 工作进度、工作方向、工作状态等
   cover: /images/sample/mydesk.png
   link: 
   preview: 
 
-- name: 橡子
-  en_name: Acorn
-  description: Acorn 是一“颗”免费且开源的 Hexo 主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。
+- name: 联萌本地化项目工作日志
+  en_name: lianmoe localization log
+  description: 工作进度、工作方向、工作状态等
   cover: /images/sample/mydesk.png
   link: 
   preview: 
