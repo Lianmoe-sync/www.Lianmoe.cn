@@ -10,7 +10,7 @@ date: 2023-01-22 23:51:55
 目前，联萌参与的由社区制作的开源项目有：Minecraft 社区教程、联萌本地化
 #### Minecraft 社区教程
 教程需要考虑的点很多，很多时候需要社区的参与，小到细节纠错，大到文章整个逻辑和编写  
-- 在创作方面，您可以为文章纠错、为文章提出自己的修改意见，乃至自己贡献文章，详见 [内容贡献引导](https://gitee.com/Lianmoe/minecraft-community-tutorial/blob/master/%E5%85%B6%E4%BB%96%E6%95%99%E7%A8%8B/%E5%86%85%E5%AE%B9%E7%BC%96%E5%86%99%E6%8C%87%E5%8D%97.md)  
+- 在创作方面，您可以为文章纠错、为文章提出自己的修改意见，乃至自己贡献文章，详见 [内容贡献引导](https://gitee.com/Lianmoe/minecraft-community-tutorial/blob/master/%E5%85%B6%E4%BB%96%E6%95%99%E7%A8%8B/%E5%86%85%E5%AE%B9%E8%B4%A1%E7%8C%AE%E5%BC%95%E5%AF%BC.md)  
 - 在文章发布方面，您可以为我们在各平台上所发布的文章点赞、转发等，以推广我们的文章，让更多人看到，目前仅有知乎专栏一个发布平台，平台地址见 [Minecraft社区教程](https://www.zhihu.com/column/c_1234517495362920448)  
 
 #### 联萌本地化  
