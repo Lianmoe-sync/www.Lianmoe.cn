@@ -4,15 +4,16 @@ date: 2023-01-22 23:51:55
 ---
 
 ### 联萌
-联萌是一个有梦想的大家庭！
-
-创立于 2020-04-06
+所有项目都欢迎大家一同建设
 
 ---
-联萌教程协作仓库：[Gitee仓库](https://gitee.com/Lianmoe/minecraft-community-tutorial)
-联萌教程发布平台：[知乎 《Minecraft 教程》 专栏](https://www.zhihu.com/column/c_1234517495362920448) | [知乎 《其他教程》 专栏](https://www.zhihu.com/column/c_1569343502068150272) | [Readthedocs](https://tutorial.lianmoe.cn/)
-联萌本地化：[Paratranz翻译平台(临时)](https://paratranz.cn/projects/5752) | [壹粥的 Github 账户的 repo（目前大多数翻译在这里）](https://github.com/Yizhouuu?tab=repositories) | [联萌的 Github 团队账户（以后的翻译会在这里）](https://github.com/orgs/Lianmoe/repositories)
+社区教程协作仓库：[Gitee 仓库](https://gitee.com/Lianmoe/minecraft-community-tutorial)
+社区教程发布平台：[知乎 | 《Minecraft 社区教程》 专栏](https://www.zhihu.com/column/c_1234517495362920448) | [知乎 | 《社区教程》 专栏](https://www.zhihu.com/column/c_1569343502068150272) | [Readthedocs](https://tutorial.lianmoe.cn/)
+社区本地化：[Crowdin | 社区本地化 - Minecraft 模组](https://zh.crowdin.com/project/communityL10n-mcmods) | [Github 仓库 | 社区本地化 - Minecraft 模组](https://github.com/lianmoeL10n/minecraft-mods-L10n)
 
 ---
-网站 banner 来自 [@陌郗郗郗](https://space.bilibili.com/95667964/?spm_id_from=333.999.0.0)
+网站 banner 来自 [@陌郗郗郗](https://space.bilibili.com/95667964/?spm_id_from=333.999.0.0)  
 部分图标来自 [iconfont](https://www.iconfont.cn/)
+
+---
+联萌社区创立于 2020-04-06 
